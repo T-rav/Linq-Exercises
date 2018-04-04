@@ -5,6 +5,13 @@ using System.Threading.Tasks;
 
 namespace Solution
 {
+    /*
+       > Write a program that uses LINQ to find all numbers between 0-9 which are divisible by 2.
+       > Write a program that uses LINQ to find all numbers 0-9 whose square is more than 20. Print the
+       number and its square. E.g. { Number = 9, Square=81 }
+       > Write a program to display numbers, multiplication of number with frequency and the frequency
+       of the number given a collection of numbers.
+     */
     class Program
     {
         static void Main(string[] args)
