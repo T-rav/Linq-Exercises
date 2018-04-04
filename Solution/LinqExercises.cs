@@ -48,7 +48,7 @@ namespace Solution
         private IEnumerable<int> GetNumbersDivisibleBy2(IEnumerable<int> numbers)
         {
             var numbersDivisibleBy2 = from number in numbers
-                where number % 2 == 0 && number > 0
+                where number % 2 == 0
                 select number;
 
             return numbersDivisibleBy2;
