@@ -1,5 +1,6 @@
 # Linq-Exercises
-A demo app showing simple linq in C#
+A demo solution showing simple linq in C#
+
 Exercises
 1. Write a program that uses LINQ to find all numbers between 0-9 which are divisible by 2.
 2. Write a program that uses LINQ to find all numbers 0-9 whose square is more than 20. Print the
